@@ -4,7 +4,7 @@ Strona ma za zadanie reklamowanie użytkownika "kidowisko1" na allegro
 
 ### Zakres
 
-Celem projektu jest stworzenie strony www za użyciem HTML i CSS.
+Celem projektu jest stworzenie strony www z użyciem HTML i CSS.
 
 ### Wykorzystane obrazy
 
