@@ -1,17 +1,15 @@
-# CV base
+# Strona reklamująca użytkownika na allegro
 
-Podstawa projektu do pobrania. Pełen tutorial z opisem na blogu Fly Nerd: CV w HTML / CSS
+Strona ma za zadanie reklamowanie użytkownika "kidowisko1" na allegro
 
 ### Zakres
 
-Celem projektu jest wykorzystanie stworzenie strony www własnego CV za użyciem HTML i CSS.
+Celem projektu jest stworzenie strony www za użyciem HTML i CSS.
 
-### Z tym tutorialem:
-- wykorzystasz znaczniki HTML5
-- ostylujesz stronę za pomocą CSS
-- stworzysz prosty, czytelny i estetyczny layout
-- wykorzystasz flexbox do tworzenia układu strony
-- przystosujesz stronę pod urządzenia mobilne (RWD)
+### Wykorzystane obrazy
 
-### Wymagania
-Do wykonania zadań konieczna jest podstawowa znajomość HTML i CSS!
+Obrazy pochodzą z https://pixabay.com/pl/, grafiki stworzono przy użyciu https://www.canva.com
+
+### Adres strony
+
+https://kinlizu.github.io/kidowisko/
